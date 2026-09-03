@@ -104,8 +104,6 @@ Console Output
 
 ---
 
----
-
 ## 📸 Project Screenshots
 
 ### 1. Course Table
@@ -165,4 +163,4 @@ information.
 The ABAP report class retrieves student-course enrollment information
 and displays it through the ABAP console.
 
-![Course Report](screenshots/course-report.png)
+![Course Report](Screenshots/course-report.png)
