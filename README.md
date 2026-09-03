@@ -111,7 +111,7 @@ Console Output
 The course table stores course information such as course ID, course title,
 and credits.
 
-![Course Table](screenshots/course-table.png)
+![Course Table](Screenshots/course-table.png)
 
 ---
 
@@ -120,7 +120,7 @@ and credits.
 The student table stores student master information including student ID,
 name, email, and date of birth.
 
-![Student Table](screenshots/student-table.png)
+![Student Table](Screenshots/student-table.png)
 
 ---
 
@@ -129,7 +129,7 @@ name, email, and date of birth.
 The enrollment table maintains the relationship between students and
 courses along with enrollment date and grade.
 
-![Enrollment Table](screenshots/enrollment-table.png)
+![Enrollment Table](Screenshots/enrollment-table.png)
 
 ---
 
@@ -137,7 +137,7 @@ courses along with enrollment date and grade.
 
 The enrollment CDS view combines student, course, and enrollment data.
 
-![Enrollment CDS View](screenshots/enrollment-cds.png)
+![Enrollment CDS View](Screenshots/enrollment-cds.png)
 
 ---
 
@@ -145,7 +145,7 @@ The enrollment CDS view combines student, course, and enrollment data.
 
 This CDS view provides a student-course enrollment overview.
 
-![Student Course CDS View](screenshots/student-course-cds.png)
+![Student Course CDS View](Screenshots/student-course-cds.png)
 
 ---
 
@@ -154,7 +154,7 @@ This CDS view provides a student-course enrollment overview.
 This CDS view provides an overview of students along with their enrollment
 information.
 
-![Student Overview CDS View](screenshots/student-overview-cds.png)
+![Student Overview CDS View](Screenshots/student-overview-cds.png)
 
 ---
 
